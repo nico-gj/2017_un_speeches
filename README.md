@@ -1,5 +1,7 @@
 # Analysis of the 2017 UN Speeches
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nico-gj/2017_un_speeches/master)
+
 ## Introduction and Main Results
 
 This project applies text analysis methods to the United Nations' 72nd Session General Assembly Debates. Input data is a set of over 150 English versions of the speeches made by Heads of States. I calculate summary statistics, and run a Latent-Dirichlet Allocation (LDA) model to cluster the speeches by the dominant issues.
