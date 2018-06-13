@@ -5,7 +5,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - math
   - re
   - collections
   - random
