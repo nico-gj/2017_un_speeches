@@ -1,0 +1,13 @@
+name: 2017_un_speeches
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - math
+  - re
+  - collections
+  - random
+  - nltk
+  - sklearn
