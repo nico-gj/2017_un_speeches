@@ -1,6 +1,10 @@
+# Mac
 .DS_Store
-.ipynb_checkpoints
-scripts/.ipynb_checkpoints
-scripts/__pycache__
-data/raw_data
-data/clean_data
+
+# Python
+*.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*__pycache__/
+
+# Folders
+_archives/
