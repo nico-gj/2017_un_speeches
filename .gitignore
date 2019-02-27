@@ -8,3 +8,6 @@
 
 # Folders
 _archives/
+
+# Tableau
+*.twbr
