@@ -10,6 +10,4 @@ I give more information on the project and present interesting results <a href="
 
 Feel free to get in touch if you have questions or comments !
 
-Nico
-
-Nicolas Guetta Jeanrenaud ([nicolas.jeanrenaud@gmail.com](nicolas.jeanrenaud@gmail.com))
+Nico ([nicolas.jeanrenaud@gmail.com](nicolas.jeanrenaud@gmail.com))
