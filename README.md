@@ -9,6 +9,7 @@ In <a href="https://github.com/nico-gj/2017_un_speeches/blob/master/scripts/2017
 I give more information on the project and present interesting results <a href="https://nico-gj.github.io/post/2018/09/12/un-speeches.html" target="_blank">on this blog post</a>.
 
 Feel free to get in touch if you have questions or comments !
+
 Nico
 
 Nicolas Guetta Jeanrenaud ([nicolas.jeanrenaud@gmail.com](nicolas.jeanrenaud@gmail.com))
